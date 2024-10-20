@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lai Yue En</h1>
-<h3 align="center">A Year 2 Artificial Intelligence Degree Student from Malaysia</h3>
+<h3 align="center">A Year 3 Artificial Intelligence Degree Student from Malaysia</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Fuzzy Logic, Evolutionary Computing**
 
