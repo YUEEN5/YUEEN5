@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lai Yue En</h1>
-<h3 align="center">A Year 3 Artificial Intelligence Degree Student from Malaysia</h3>
+<h3 align="center">A Final Year Artificial Intelligence Degree Student from UTeM</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Fuzzy Logic, Evolutionary Computing**
+- 🌱 I’m currently learning **Machine Learning, Fuzzy Logic, Evolutionary Computing, Natural Language Processing**
 
 - 📫 How to reach me **laiyueen@gmail.com**
 
